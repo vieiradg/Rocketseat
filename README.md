@@ -1,2 +1,0 @@
-# Rocketseat
- Desafios
