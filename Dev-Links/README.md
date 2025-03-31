@@ -1,64 +1,61 @@
-Dev Links
+# Dev Links
+
+![image](https://github.com/user-attachments/assets/d777c698-254e-45c9-a29e-2efd0bc562a5)
 
 Um projeto simples e estilizado para reunir seus links de redes sociais e contatos em um só lugar.
 
-🚀 Tecnologias Utilizadas
+## 🚀 Tecnologias Utilizadas
 
-HTML
+- **HTML**
+- **CSS** (com suporte a Dark Mode)
+- **JavaScript**
 
-CSS (com suporte a Dark Mode)
+## 🌟 Funcionalidades
 
-JavaScript
+- 📸 **Exibição da foto e nome do usuário**
+- 🔗 **Links para redes sociais e portfólio**
+- 🌗 **Alternância entre tema claro e escuro**
+- 💾 **Armazenamento da preferência de tema no `localStorage`**
 
-🌟 Funcionalidades
-
-Exibição da foto e nome do usuário
-
-Links para redes sociais e portfólio
-
-Alternância entre tema claro e escuro
-
-Armazenamento da preferência de tema no localStorage
-
-📷 Prévia do Projeto
+## 📷 Prévia do Projeto
 
 Caso queira visualizar o projeto em funcionamento, acesse o link:
-🔗 Dev Links - rocketseat-phi.vercel.app/
+[🔗 Dev Links - Deploy](https://rocketseat-phi.vercel.app/)
 
-🛠 Como Usar
+## 🛠 Como Usar
 
-Clone este repositório:
+1. **Clone este repositório:**
+   ```bash
+   git clone https://github.com/vieiradg/dev-links.git
+   ```
+2. **Acesse a pasta do projeto:**
+   ```bash
+   cd dev-links
+   ```
+3. **Abra o arquivo `index.html` no navegador.**
 
-git clone https://github.com/vieiradg/dev-links.git
-
-Acesse a pasta do projeto:
-
-cd dev-links
-
-Abra o arquivo index.html no navegador.
-
-🎨 Personalização
+## 🎨 Personalização
 
 Você pode personalizar o projeto alterando os seguintes arquivos:
 
-assets/dg.jpg → Sua foto de perfil.
+- **`assets/dg.jpg`** → Sua foto de perfil.
+- **`style.css`** → Cores, fontes e estilos visuais.
+- **`index.html`** → Nome, links e redes sociais.
+- **`script.js`** → Comportamento do modo claro/escuro.
 
-style.css → Cores, fontes e estilos visuais.
+## 📌 Melhorias Futuras
 
-index.html → Nome, links e redes sociais.
+- 🚀 **Adicionar mais opções de personalização**
+- 📱 **Criar uma versão responsiva aprimorada**
+- 🎬 **Implementar animações mais fluidas**
 
-script.js → Comportamento do modo claro/escuro.
+## 📝 Licença
 
-📌 Melhorias Futuras
+Este projeto está sob a licença **MIT**. Sinta-se à vontade para usar e modificar como quiser! 😊
 
-Adicionar mais opções de personalização
+---
 
-Criar uma versão responsiva aprimorada
+Feito com ❤️ por [**Diego Vieira**](https://github.com/vieiradg) 🚀
 
-Implementar animações mais fluidas
-
-📝 Licença
 
 Este projeto está sob a licença MIT. Sinta-se à vontade para usar e modificar como quiser! 😊
-
-Feito com ❤️ por Diego Vieira 🚀
